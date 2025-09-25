@@ -193,7 +193,7 @@ This project is licensed under the GPL-3.6 License - see the LICENSE file for de
 
 **Created by j4ck3r**
 
-- GitHub: [@j4ck3r](https://github.com/j4ck3r)
+- MEET ME: [@j4ck3r](https://jprojectplatform.com/)
 - Project: J Project Platform
 
 ## 🙏 Acknowledgments
