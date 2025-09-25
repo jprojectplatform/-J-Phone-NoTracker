@@ -187,7 +187,7 @@ We welcome contributions! Please feel free to submit pull requests for:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the GPL-3.6 License - see the LICENSE file for details.
 
 ## 👨‍💻 Author
 
