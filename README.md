@@ -36,8 +36,8 @@ A sophisticated Python-based phone number tracking application that provides det
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/j4ck3r/j-phone-notracker.git
-cd j-phone-notracker
+git clone https://github.com/jprojectplatform/J-Phone-NoTracker.git
+cd J-Phone-NoTracker
 ```
 
 2. **Create virtual environment (recommended)**
